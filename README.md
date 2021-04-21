@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo.svg" width="150" />
+  <img src="public/logo.svg" width="300" />
   <h1>Podcastr</h1>
   <p>🎧 A platform for running podcasts 🎧</p>
   <p>
